@@ -76,5 +76,13 @@
     <Compile Include="Services\CooldownsService.cs" />
     <Compile Include="Storage\DataStorage.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Misc\ReadmePics\guide.png" />
+    <None Include="Misc\ClassDiagram1.cd" />
+    <Content Include="Misc\config-example.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Misc\ReadmePics\diagram.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
