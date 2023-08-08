@@ -7,3 +7,6 @@ Sample Rocket plugin project created in the **Unturned Rocket Plugin Development
 #4 - Permissions & Cooldowns - [source code](https://github.com/RestoreMonarchyPlugins/KitsPlugin/tree/part4) [youtube](https://www.youtube.com/watch?v=xggQ78C4yFk&list=PLFHvXbDC4Vk1NnS27INhLCfEwhzbiQYFA&index=5)  
 #5 - Saving to Json - [source code](https://github.com/RestoreMonarchyPlugins/KitsPlugin/tree/part5) [youtube](https://www.youtube.com/watch?v=3A_kcGX4HvY&list=PLFHvXbDC4Vk1NnS27INhLCfEwhzbiQYFA&index=6)  
 
+![alt text](https://github.com/qboww/KitsPlugin-Update/blob/master/KitsPlugin/Misc/ReadmePics/guide.png)
+
+![alt text](https://github.com/qboww/KitsPlugin-Update/blob/master/KitsPlugin/Misc/ReadmePics/diagram.png)
