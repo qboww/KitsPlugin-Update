@@ -4,6 +4,7 @@
 That version of plugin lets you adjust amount of items using cs or xml files
 <br>
 Default version of plugin: [Link](https://github.com/RestoreMonarchy/KitsPlugin/tree/master/KitsPlugin)
+<br>
 Config XML example: [Link](https://github.com/qboww/KitsPlugin-Update/blob/master/KitsPlugin/Misc/config-example.xml)
 
 <br>
