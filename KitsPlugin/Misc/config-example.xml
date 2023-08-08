@@ -1,10 +1,91 @@
-{
-  "exclude": [
-    "**/bin",
-    "**/bower_components",
-    "**/jspm_packages",
-    "**/node_modules",
-    "**/obj",
-    "**/platforms"
-  ]
-}
+<?xml version="1.0" encoding="utf-8"?>
+<KitsPluginConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MessageColor>yellow</MessageColor>
+  <LoadMessage>This is kits plugin!</LoadMessage>
+  <GlobalCooldown>30</GlobalCooldown>
+  <Kits>
+    <Kit>
+      <Name>spec</Name>
+      <Cooldown>30</Cooldown>
+      <Item id="253" amount="1" />
+      <Item id="334" amount="1" />
+      <Item id="1169" amount="1" />
+      <Item id="1171" amount="1" />
+      <Item id="1172" amount="1" />
+      <Item id="1525" amount="1" />
+      <Item id="363" amount="1" />
+      <Item id="116" amount="1" />
+      <Item id="1103" amount="1" />
+      <Item id="1270" amount="1" />
+      <Item id="15" amount="1" />
+      <Item id="76" amount="1" />
+      <Item id="333" amount="1" />
+      <Item id="1271" amount="3" />
+      <Item id="395" amount="8" />
+      <Item id="17" amount="8" />
+      <Item id="395" amount="4" />
+      <Item id="81" amount="9" />
+      <Item id="1007" amount="2" />
+      <Item id="8" amount="2" />
+      <Item id="146" amount="1" />
+      <Item id="148" amount="1" />
+      <Item id="149" amount="1" />
+    </Kit>
+    <Kit>
+      <Name>terr</Name>
+      <Cooldown>30</Cooldown>
+      <Item id="253" amount="1" />
+      <Item id="334" amount="1" />
+      <Item id="1169" amount="1" />
+      <Item id="1171" amount="1" />
+      <Item id="1172" amount="1" />
+      <Item id="1525" amount="1" />
+      <Item id="122" amount="1" />
+      <Item id="1379" amount="1" />
+      <Item id="1103" amount="1" />
+      <Item id="1270" amount="1" />
+      <Item id="15" amount="1" />
+      <Item id="76" amount="1" />
+      <Item id="333" amount="1" />
+      <Item id="1271" amount="3" />
+      <Item id="395" amount="8" />
+      <Item id="125" amount="4" />
+      <Item id="1381" amount="4" />
+      <Item id="395" amount="4" />
+      <Item id="81" amount="9" />
+      <Item id="1007" amount="2" />
+      <Item id="8" amount="2" />
+      <Item id="146" amount="1" />
+      <Item id="148" amount="1" />
+      <Item id="1191" amount="1" />
+    </Kit>
+    <Kit>
+      <Name>tammo</Name>
+      <Cooldown>300</Cooldown>
+      <Item id="125" amount="4" />
+      <Item id="1381" amount="4" />
+    </Kit>
+    <Kit>
+      <Name>sammo</Name>
+      <Cooldown>30</Cooldown>
+      <Item id="17" amount="8" />
+    </Kit>
+    <Kit>
+      <Name>heals</Name>
+      <Cooldown>30</Cooldown>
+      <Item id="395" amount="8" />
+    </Kit>
+    <Kit>
+      <Name>scopes</Name>
+      <Cooldown>30</Cooldown>
+      <Item id="146" amount="1" />
+      <Item id="147" amount="1" />
+      <Item id="148" amount="1" />
+      <Item id="153" amount="1" />
+      <Item id="21" amount="1" />
+      <Item id="22" amount="1" />
+      <Item id="296" amount="1" />
+      <Item id="1201" amount="1" />
+    </Kit>
+  </Kits>
+</KitsPluginConfiguration>
