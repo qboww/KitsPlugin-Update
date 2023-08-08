@@ -2,6 +2,7 @@
 
 ### Here is updated version of KitsPlugin made by [RestoreMonarchy](https://github.com/RestoreMonarchy)
 That version of plugin lets you adjust amount of items using cs or xml files
+<br>
 Default version of plugin: [Link](https://github.com/RestoreMonarchy/KitsPlugin/tree/master/KitsPlugin)
 
 <br>
